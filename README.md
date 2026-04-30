@@ -1,36 +1,117 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Gladys Ayebia Ashong — Portfolio
 
-## Getting Started
+> Passionate Developer. Natural Connector.
 
-First, run the development server:
+A modern, animated personal portfolio built with **Next.js 16**, **TypeScript**, and **CSS Modules** — showcasing my skills, experience, projects, and journey as a frontend and mobile developer based in **Accra, Ghana**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I'm **Gladys Ayebia Ashong**, a frontend and mobile developer currently pursuing a Bachelor of Engineering in Computer Engineering at the **Accra Institute of Technology**. I love transforming complex ideas into clean, intuitive interfaces — from responsive web apps built with **React & Next.js** to cross-platform mobile experiences with **Flutter & Expo**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Outside of code, I bring teams together, manage communities, and communicate with genuine passion. I've won **two hackathons** (Devpost & Bite-Sized Market), mentored students in STEM, and consistently delivered across frontend, design, and community roles.
 
-## Learn More
+- **Location:** Accra, Ghana
+- **Email:** gladysashong17@gmail.com
+- **LinkedIn:** [gladys-ayebia-ashong](https://www.linkedin.com/in/gladys-ayebia-ashong-44a73b248/)
+- **GitHub:** [gladysayebia](https://github.com/gladysayebia)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Skills & Expertise
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Frontend
+| Skill | Proficiency |
+|-------|-------------|
+| HTML & CSS | 95% |
+| React | 90% |
+| JavaScript | 88% |
+| Next.js | 85% |
 
-## Deploy on Vercel
+### Mobile Development
+| Skill | Proficiency |
+|-------|-------------|
+| Flutter | 80% |
+| Expo | 78% |
+| React Native | 75% |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Backend & Data
+| Skill | Proficiency |
+|-------|-------------|
+| Node.js | 78% |
+| Express.js | 75% |
+| SQL | 72% |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Other Tech
+| Skill | Proficiency |
+|-------|-------------|
+| Canva / Design | 85% |
+| VEX Robotics | 75% |
+| Python | 70% |
+| Machine Learning | 60% |
+
+### Soft Skills
+| Skill | Proficiency |
+|-------|-------------|
+| Community Management | 92% |
+| Mentoring | 90% |
+| Team Leadership | 88% |
+| Social Media | 85% |
+
+---
+
+## Work Experience
+
+| Role | Company | Period | Type |
+|------|---------|--------|------|
+| STEM Educator & Web Developer | Bountiful Technologies Co. Ltd. | June 2025 – Present | Full-time |
+| Frontend Developer (Volunteer) | MentorXi | March 2025 – Present | Volunteer |
+| Frontend Developer | ShapezMpier | Nov 2024 – Present | Contract |
+| Web & App Developer | Freelancing | Sept 2024 – Present | Freelance |
+| Community Manager Intern | Nadital | Nov 2024 – Dec 2024 | Internship |
+| Graphic Designer & Progression Mentor | African Science Academy | Sept 2023 – Jan 2024 | Part-time |
+
+---
+
+## Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **ImoScope** | AI Image Description PWA for visually impaired users | React, PWA, AI, Accessibility |
+| **Sisi's Online Shop** | Responsive e-commerce platform for clothing & accessories | React, E-commerce, CSS |
+| **Course Registration** | Academic registration platform with intuitive UI | React, UI/UX, Academic |
+| **Scripture & Spirit** | Podcast website with episode listings & audio player | React, Vite, Audio, Design |
+| **3D Interactive Lessons** | Award-winning educational platform (Devpost Hackathon Winner) | 3D, Education, Hackathon |
+| **Edubase** | Accessible learning platform (Bite-Sized Market Hackathon Winner) | Education, Hackathon |
+| **ML Salary Predictor** | Machine learning salary prediction model | Python, ML, Colab, Data |
+
+---
+
+## Key Achievements
+
+- **2 Hackathon Wins** — Devpost (Software Education Hacks) & Bite-Sized Market
+- **6+ Projects Completed** — across web, mobile, and AI
+- **4+ Teams Collaborated** — in professional and volunteer settings
+- **2+ Years of Experience** — in development, design, and community roles
+
+---
+
+## Tech Stack
+
+- **Framework:** Next.js 16 (App Router)
+- **Language:** TypeScript
+- **Styling:** CSS Modules
+- **Icons:** React Icons
+- **Deployment:** Vercel
+
+---
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/gladys-ayebia-ashong-44a73b248/
+- **GitHub:** https://github.com/gladysayebia
+- **Email:** gladysashong17@gmail.com
+
+---
+
+*Built with passion by Gladys Ayebia Ashong.*
